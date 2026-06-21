@@ -1,0 +1,133 @@
+{
+  "latestMeasurements": {
+    "heart_rate": "75",
+    "sys_blood_pressure": "128",
+    "dia_blood_pressure": "97"
+  },
+  "patientDetails": {
+    "firstname": "John",
+    "lastname": "Smith"
+  },
+  "bloodPressureChart": [
+    {
+      "timestamp": "2026-06-18 00:00:00",
+      "sys_blood_pressure": 118,
+      "dia_blood_pressure": 76
+    },
+    {
+      "timestamp": "2026-06-18 01:00:00",
+      "sys_blood_pressure": 115,
+      "dia_blood_pressure": 74
+    },
+    {
+      "timestamp": "2026-06-18 02:00:00",
+      "sys_blood_pressure": 112,
+      "dia_blood_pressure": 72
+    },
+    {
+      "timestamp": "2026-06-18 03:00:00",
+      "sys_blood_pressure": 110,
+      "dia_blood_pressure": 70
+    },
+    {
+      "timestamp": "2026-06-18 04:00:00",
+      "sys_blood_pressure": 108,
+      "dia_blood_pressure": 68
+    },
+    {
+      "timestamp": "2026-06-18 05:00:00",
+      "sys_blood_pressure": 112,
+      "dia_blood_pressure": 71
+    },
+    {
+      "timestamp": "2026-06-18 06:00:00",
+      "sys_blood_pressure": 118,
+      "dia_blood_pressure": 75
+    },
+    {
+      "timestamp": "2026-06-18 07:00:00",
+      "sys_blood_pressure": 122,
+      "dia_blood_pressure": 78
+    },
+    {
+      "timestamp": "2026-06-18 08:00:00",
+      "sys_blood_pressure": 126,
+      "dia_blood_pressure": 82
+    },
+    {
+      "timestamp": "2026-06-18 09:00:00",
+      "sys_blood_pressure": 128,
+      "dia_blood_pressure": 84
+    },
+    {
+      "timestamp": "2026-06-18 10:00:00",
+      "sys_blood_pressure": 130,
+      "dia_blood_pressure": 85
+    },
+    {
+      "timestamp": "2026-06-18 11:00:00",
+      "sys_blood_pressure": 129,
+      "dia_blood_pressure": 84
+    },
+    {
+      "timestamp": "2026-06-18 12:00:00",
+      "sys_blood_pressure": 132,
+      "dia_blood_pressure": 86
+    },
+    {
+      "timestamp": "2026-06-18 13:00:00",
+      "sys_blood_pressure": 128,
+      "dia_blood_pressure": 83
+    },
+    {
+      "timestamp": "2026-06-18 14:00:00",
+      "sys_blood_pressure": 127,
+      "dia_blood_pressure": 82
+    },
+    {
+      "timestamp": "2026-06-18 15:00:00",
+      "sys_blood_pressure": 125,
+      "dia_blood_pressure": 80
+    },
+    {
+      "timestamp": "2026-06-18 16:00:00",
+      "sys_blood_pressure": 124,
+      "dia_blood_pressure": 79
+    },
+    {
+      "timestamp": "2026-06-18 17:00:00",
+      "sys_blood_pressure": 126,
+      "dia_blood_pressure": 81
+    },
+    {
+      "timestamp": "2026-06-18 18:00:00",
+      "sys_blood_pressure": 123,
+      "dia_blood_pressure": 78
+    },
+    {
+      "timestamp": "2026-06-18 19:00:00",
+      "sys_blood_pressure": 120,
+      "dia_blood_pressure": 76
+    },
+    {
+      "timestamp": "2026-06-18 20:00:00",
+      "sys_blood_pressure": 119,
+      "dia_blood_pressure": 75
+    },
+    {
+      "timestamp": "2026-06-18 21:00:00",
+      "sys_blood_pressure": 117,
+      "dia_blood_pressure": 74
+    },
+    {
+      "timestamp": "2026-06-18 22:00:00",
+      "sys_blood_pressure": 116,
+      "dia_blood_pressure": 73
+    },
+    {
+      "timestamp": "2026-06-18 23:00:00",
+      "sys_blood_pressure": 114,
+      "dia_blood_pressure": 72
+    }
+  ]
+}
